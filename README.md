@@ -1,2 +1,2 @@
-# toolchain
-Embedded toolchain, format and static code analysis binary files
+## Toolchain
+Clang format and static code analysis binary files.
